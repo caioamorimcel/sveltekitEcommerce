@@ -3,6 +3,7 @@
 		"esbenp.prettier-vscode", // PRETTIER
 		"svelte.svelte-vscode", // SVELTE FOR VS CODE
 		"natqe.reload", // RELOAD
-		"dbaeumer.vscode-eslint" // ESLINT
+		"dbaeumer.vscode-eslint", // ESLINT
+		"mikestead.dotenv" // DOTENV
 	]
 }
