@@ -4,6 +4,7 @@
 		"svelte.svelte-vscode", // SVELTE FOR VS CODE
 		"natqe.reload", // RELOAD
 		"dbaeumer.vscode-eslint", // ESLINT
-		"mikestead.dotenv" // DOTENV
+		"mikestead.dotenv", // DOTENV
+		"cweijan.vscode-postgresql-client2" // POSTGRESS CLIENT
 	]
 }

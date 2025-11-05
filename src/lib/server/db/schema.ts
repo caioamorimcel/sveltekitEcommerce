@@ -1,1 +1,1 @@
-export * from './schemaPadrao';
+export * from './schemaProdutos';
